@@ -1,5 +1,4 @@
 # Push Button Game Extension
-
 ```template
 basic.showIcon(IconNames.Heart)
 basic.forever(function () {
@@ -8,3 +7,8 @@ basic.forever(function () {
 })
 ```
 
+## Step 1
+lala
+
+## Step 2
+lalalala
