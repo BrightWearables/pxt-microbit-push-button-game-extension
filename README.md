@@ -12,6 +12,6 @@ Welcome! Place the ``||basic:show string||`` block in the ``||basic:on start||``
 basic.showString("Micro!")
 ```
 
-## Step 2
+## Step 2slslsl
 
 Click ``|Download|`` to transfer your code in your unknown macro!
