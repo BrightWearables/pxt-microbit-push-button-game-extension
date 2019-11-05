@@ -15,3 +15,7 @@ basic.showString("Micro!")
 ## Step 2
 
 Click ``|Download|`` to transfer your code in your unknown macro!
+
+```template
+basic.showString("hi there")
+```
